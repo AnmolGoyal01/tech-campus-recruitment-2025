@@ -1,0 +1,11 @@
+{
+  "name": "tech-campus-recruitment-2025",
+  "version": "1.0.0",
+  "description": "## Background",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/extract_logs.js"
+  },
+  "author": "Anmol",
+  "license": "ISC"
+}
